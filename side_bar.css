@@ -6,7 +6,10 @@ body{
   width: 150px;
   background-color: lightgrey;
   height: 100vh;
-  padding-left: 10px;
+  padding-left: 80px;
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
 }
 
 .item {
